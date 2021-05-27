@@ -4,4 +4,6 @@
 2. Run : npm install
 3. from root directory of project > run: "dcoker-compose build" to build
 4. Run: "docker-compose up" command to run the project
+
+
 PS: Make docker is already installed on your system
