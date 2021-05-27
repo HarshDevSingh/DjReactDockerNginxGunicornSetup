@@ -6,4 +6,4 @@
 4. Run: "docker-compose up" command to run the project
 
 
-PS: Make docker is already installed on your system
+PS: Please make sure docker is installed and running fine on your system
